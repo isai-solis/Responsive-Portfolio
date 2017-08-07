@@ -289,6 +289,13 @@ input[type=submit] {
     background: #fff;
     border: 1px solid #ddd;
     }
+    .work {
+      position: relative;
+      float: left;
+      width: 100%;
+      margin: 20px 0 25px;
+      overflow: auto;
+    }
     .sidebar {
       float: right;
       width: 100%;
@@ -352,6 +359,13 @@ input[type=submit] {
       background: #fff;
       border: 1px solid #ddd;
     }  
+    .work {
+        position: relative;
+        float: left;
+        width: 100%;
+        margin: 20px 0 25px;
+        overflow: auto;
+      }
     .sidebar {
       float: left;
       width: 100%;
